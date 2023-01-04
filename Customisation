@@ -3,3 +3,8 @@ This page lists all the configuration and datapack customisations.
 Minecraft:
 All shipwrecks are full shipwrecks
 Shipwreck treasure chests and Ocean Ruins chests have had the buried treasure map removed as this often causes crashes on servers. The Shipwreck chest has had prismarine crystals added, the Heart of the sea has been moved to small Ocean Ruins chests. One of the custom structures also generates the buried treasure loot.
+Ruined Portals have been edited to generate the Giant Portal more regularly.
+Savanna Village houses have had cactus added to the chest loot table.
+Chickens have a chance to drop eggs on killing them.
+Witch drops are skewed towards redstone and glowstone.
+Standing under a bees nest will force any bees inside it to exit making honey production faster.
