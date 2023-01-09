@@ -1,16 +1,16 @@
-This page lists all the configuration and datapack customisations.
+This page lists all the configuration and datapack customisations
 
 Minecraft:
-Biomes are reduced in size by a combination of the smallerbiomes mod and a datapack.
+Biomes are reduced in size by a combination of the smallerbiomes mod and a datapack
 All shipwrecks are full shipwrecks
-Shipwreck treasure chests and Ocean Ruins chests have had the buried treasure map removed as this often causes crashes on servers. The Shipwreck chest has had prismarine crystals added, the Heart of the sea has been moved to small Ocean Ruins chests. Also, one of the mod structures always generates the buried treasure loot.
-Ruined Portals have been edited to generate the Giant Portal more regularly.
-Savanna Village houses have had cactus added to the chest loot table.
-Chickens have a chance to drop eggs on killing them.
-Witch drops are skewed towards redstone and glowstone.
-Standing under a bees nest will force any bees inside it to exit making honey production faster.
-Minecraft dungeons have had their frequency increased.
-Separation and spacing of Ancient Cities, Desert Pyramids, Jungle Temples, Pillager Outposts, Ruined Portals, Shipwrecks and Villages has been reduced.
+Shipwreck treasure chests and Ocean Ruins chests have had the buried treasure map removed as this often causes crashes on servers. The Shipwreck chest has had prismarine crystals added, the Heart of the sea has been moved to small Ocean Ruins chests. Also, one of the mod structures always generates the buried treasure loot
+Ruined Portals have been edited to generate the Giant Portal more regularly
+Savanna Village houses have had cactus added to the chest loot table
+Chickens have a chance to drop eggs on killing them
+Witch drops are skewed towards redstone and glowstone
+Standing under a bees nest will force any bees inside it to exit making honey production faster
+Minecraft dungeons have had their frequency increased
+Separation and spacing of Ancient Cities, Desert Pyramids, Jungle Temples, Pillager Outposts, Ruined Portals, Shipwrecks and Villages has been reduced
 
 Farming for Blockheads:
 Added to the default trades:
@@ -21,5 +21,11 @@ Added to the default trades:
 Edited almost all trades to 32 gold ingots
 
 Unstructured:
-Increased emeralds in the loot chests at Trader Camps.
-Added more biomes for the Trader Camp to spawn in and reduced spacing and separation.
+Increased emeralds in the loot chests at Trader Camps
+Added more biomes for the Trader Camp to spawn in and reduced spacing and separation
+
+Ad Astra:
+Increased frequency of Meteors
+Reduced frequency of Oil Wells
+
+
