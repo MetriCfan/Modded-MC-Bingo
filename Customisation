@@ -1,8 +1,9 @@
 This page lists all the configuration and datapack customisations.
 
 Minecraft:
+Biomes are reduced in size by a combination of the smallerbiomes mod and a datapack.
 All shipwrecks are full shipwrecks
-Shipwreck treasure chests and Ocean Ruins chests have had the buried treasure map removed as this often causes crashes on servers. The Shipwreck chest has had prismarine crystals added, the Heart of the sea has been moved to small Ocean Ruins chests. One of the custom structures also generates the buried treasure loot.
+Shipwreck treasure chests and Ocean Ruins chests have had the buried treasure map removed as this often causes crashes on servers. The Shipwreck chest has had prismarine crystals added, the Heart of the sea has been moved to small Ocean Ruins chests. Also, one of the custom structures always generates the buried treasure loot.
 Ruined Portals have been edited to generate the Giant Portal more regularly.
 Savanna Village houses have had cactus added to the chest loot table.
 Chickens have a chance to drop eggs on killing them.
