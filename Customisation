@@ -50,13 +50,15 @@ Graveyard:
 Increased frequency of Crypts, Haunted Houses, Small Graveyards, Large Graveyards and Memorial Trees
 Added spawn biomes to Crypts, Haunted Houses, Small Graveyards, Small Desert Graveyards and Large Graveyards
 
-
-
 Hostile Villages:
 Changed mob pairs to:
 villageEntityTypes = ["minecraft:husk;minecraft:slime;4;1", "minecraft:goat;minecraft:slime;4;1", "minecraft:rabbit;minecraft:wither_skeleton;4;1", "minecraft:goat;minecraft:stray;4;1", "minecraft:husk;minecraft:wither_skeleton;4;1", "minecraft:rabbit;minecraft:witch;4;1", "minecraft:stray;minecraft:pillager;4;1"]
 Changed Loot Tables for chest to:
 loottables = ["minecraft:chests/bastion_treasure", "minecraft:chests/abandoned_mineshaft", "minecraft:chests/simple_dungeon"]
+
+Delightful:
+Disallow Pumpkin Pie overhaul
+Increase Cantaloupe generation
 
 
 
