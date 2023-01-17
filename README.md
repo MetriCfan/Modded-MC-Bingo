@@ -1,4 +1,4 @@
-# Modded-MC-Bingo-using-the-Bongo-Mod
+# Modded-MC-Bingo
 A modpack for playing Modded Minecraft Bingo using the Bongo bingo mod
 
 This modpack provides a varied and fun Minecraft Bingo experience. The bingo mod being used is Bongo by noeppinoeppi. There are a few fantastic Minecraft bingo mods around but I have found Bongo to be the most configurable and up to date bingo version. Download it at curseforge https://www.curseforge.com/minecraft/mc-mods/bongo. If you're looking for a more vanilla Minecraft bingo experience this modpack is not for you. There are several options out there for that including the Bongo mod official version at the download link mentioned above or my own bingo card 119 datapack which you can get here https://www.curseforge.com/minecraft/customization/bingo-card-119.
